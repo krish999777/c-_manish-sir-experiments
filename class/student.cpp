@@ -27,7 +27,7 @@ public:
     }
     main(){
         Student obj;
-        cout<<"enter id,name,marks of subject 1 and subject 2";
+        cout<<"enter id,name,marks of subject 1 and subject 2"<<endl;
         int id,m1,m2;
         char name[15];
         cin>>id>>name>>m1>>m2;
