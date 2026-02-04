@@ -10,7 +10,7 @@ void display(int var1,float var2){
     cout<<"int number="<<var1;
     cout<<" and float number="<<var2<<endl;
 }
-void display(float var1,int var2){
+inline void display(float var1,int var2){
     cout<<"float number="<<var1;
     cout<<" and int number="<<var2<<endl;
 }
